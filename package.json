@@ -1,0 +1,16 @@
+{
+  "name": "nodeexp",
+  "version": "1.0.0",
+  "description": "sinov uchun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anodra",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "read-text-file": "^1.1.0",
+    "txt-file-to-json": "^3.0.6"
+  }
+}
